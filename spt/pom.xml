@@ -8,7 +8,7 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ec.com.tio.leo.dev</groupId>
+	<groupId>ec.com.leodev.tdd</groupId>
 	<artifactId>spt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spt</name>
